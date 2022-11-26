@@ -4,5 +4,14 @@
   },
   "en_US": {
     "Hello Wolrd": "Hello world"
+  },
+  "zh_Hans_CN": {
+    "Hello Wolrd": "你好世界"
+  },
+  "fr_FR": {
+    "Hello Wolrd": "Bonjour le monde"
+  },
+  "de_DE": {
+    "Hello Wolrd": "Hallo Welt"
   }
 }
